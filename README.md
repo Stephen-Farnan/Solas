@@ -1,2 +1,2 @@
 # Solas
-Committing Codebase for Solas
+This is our codebase for Solas and the White Winter
